@@ -218,15 +218,6 @@ function Main() {
                             <div className="info">
                                 <div className="address">
                                     <GeoAltFill size={35}/>
-                                    <h4>Branch Office</h4>
-                                    <p>
-                                        Office No. 321, Tower D,
-                                        Chandigarh City Centre,
-                                        Zirakpur - 140603, Punjab
-                                    </p>
-                                </div>
-                                <div className="address">
-                                    <GeoAltFill size={35}/>
                                     <h4>Registerred Office</h4>
                                     <p>
                                         Village - Bhagwanpura, Barwala Road,
@@ -247,9 +238,13 @@ function Main() {
                                     <PhoneFill  size={35}  />
                                     <h4>Call:</h4>
                                     <p>
-                                        +91 - 7696672502
+                                        +91 - 9876067941
                                         <br/>
-                                        +91 - 98144 12360
+                                        +91 - 9463279127
+                                        <br/>
+                                        +91 - 9814412360
+                                        <br/>
+                                        01762 294086
                                     </p>
                                 </div>
                             </div>
@@ -259,7 +254,7 @@ function Main() {
                         <div className="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
                             <iframe
                                 title="map"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d858.3413675453669!2d76.81626023563389!3d30.623656095191542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fead1b4c5ad41%3A0xde4256f38f066c10!2sTower-D%2C%20Affinity%20Greens%2C%20Punjab%20140603!5e0!3m2!1sen!2sin!4v1680121420471!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3434.645916102786!2d76.85352387632227!3d30.58753957465468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fbfd3f44da10d%3A0x5839d559db08ce87!2sDerabassi%20-%20Barwala%20Rd%2C%20Bhagat%20Singh%20Nagar%2C%20Dera%20Bassi%2C%20Punjab!5e0!3m2!1sen!2sin!4v1684182681146!5m2!1sen!2sin"
                                 frameborder="0"
                                 height="600"
                                 width="800"
