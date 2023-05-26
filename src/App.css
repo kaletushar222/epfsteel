@@ -889,6 +889,52 @@ body {
   .services .icon-box:hover h4 a {
     color: #a392ff;
   }
+
+
+
+
+  .products .icon-box {
+    box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+    padding: 50px 30px;
+    transition: all ease-in-out 0.4s;
+    background: #fff;
+    width: 100%;
+  }
+  
+  .products .icon-box .icon {
+    margin-bottom: 10px;
+  }
+  
+  .products .icon-box .icon i {
+    color: #a392ff;
+    font-size: 36px;
+    transition: 0.3s;
+  }
+  
+  .products .icon-box h4 {
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 24px;
+  }
+  
+  .products .icon-box h4 a {
+    color: #3c3c3c;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .products .icon-box p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  
+  .products .icon-box:hover {
+    transform: translateY(-10px);
+  }
+  
+  .products .icon-box:hover h4 a {
+    color: #a392ff;
+  }
   
   /*--------------------------------------------------------------
   # Cta
