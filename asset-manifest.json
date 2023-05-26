@@ -1,16 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.371d6240.css",
-    "main.js": "/static/js/main.5a70b9ae.js",
+    "main.css": "/static/css/main.facf4e08.css",
+    "main.js": "/static/js/main.a521c0fd.js",
+    "static/media/1 TANK WITH AGITATORS.png": "/static/media/1 TANK WITH AGITATORS.26fa386103c8f1710049.png",
+    "static/media/2 MS CHIMNEY.jpg": "/static/media/2 MS CHIMNEY.b1d33e07db55506c48a4.jpg",
+    "static/media/1.jpg": "/static/media/1.c6230a4875b61169ed57.jpg",
+    "static/media/1 ESP SPARES.jpg": "/static/media/1 ESP SPARES.26085093970376028831.jpg",
+    "static/media/1 SS CAP PLATE.jpg": "/static/media/1 SS CAP PLATE.e366e1f66a3ad8f9fb79.jpg",
+    "static/media/2  STORAGE TANK.png": "/static/media/2  STORAGE TANK.bd7210f6fff444cd032f.png",
+    "static/media/1 EMITTING ELECTRODES.jpg": "/static/media/1 EMITTING ELECTRODES.1123d17786502b60e5f3.jpg",
+    "static/media/3 COLLECTING ELECTORDE.jpg": "/static/media/3 COLLECTING ELECTORDE.caf794fb95e2201fecf5.jpg",
+    "static/media/1 ROLLERS.jpeg": "/static/media/1 ROLLERS.4d05bfe8516d9596d4b0.jpeg",
+    "static/media/3 ECONOMISER COILS.jpg": "/static/media/3 ECONOMISER COILS.f1d90ad2d1bc503da738.jpg",
+    "static/media/1 TADPOLE.jpeg": "/static/media/1 TADPOLE.c82c1b73bb83e42cea74.jpeg",
+    "static/media/2 IMPELLERS.jpg": "/static/media/2 IMPELLERS.1ab014bcfccb135e2a31.jpg",
     "static/media/epf5.jpg": "/static/media/epf5.09a076d1d46d568ba50b.jpg",
     "static/media/bgimage.jpg": "/static/media/bgimage.93db1aabcbb36b05a7c5.jpg",
+    "static/media/1 BELT CONVEYOR GUARDS.jpg": "/static/media/1 BELT CONVEYOR GUARDS.ccd2f5dd0ab33eb574a0.jpg",
+    "static/media/1 AIR PREHEATER.jpg": "/static/media/1 AIR PREHEATER.2e10bec7ba235983da87.jpg",
+    "static/media/1 EXPANSION BELLOWS.png": "/static/media/1 EXPANSION BELLOWS.b2449b8b40a7e44e38cd.png",
+    "static/media/3 AIR NOZZLES.jpg": "/static/media/3 AIR NOZZLES.ee0c9818d305267861e6.jpg",
+    "static/media/1 COIL BEND.jpg": "/static/media/1 COIL BEND.eb5315659b622b72a2ea.jpg",
+    "static/media/1 COAL NOZZLE COMPLETE.jpg": "/static/media/1 COAL NOZZLE COMPLETE.5e7adec2f16f153c3166.jpg",
+    "static/media/2 SCREW FEEDER.jpg": "/static/media/2 SCREW FEEDER.f63fd09bbc58bc3bcb72.jpg",
+    "static/media/1 RALV.jpg": "/static/media/1 RALV.9ea5954ebc0d74022ae5.jpg",
     "static/media/value.jpg": "/static/media/value.053df62b5498614572a6.jpg",
+    "static/media/1 AIR WASHER.jpg": "/static/media/1 AIR WASHER.0183ca212ee7ea412a3a.jpg",
+    "static/media/1 FAN WITH CASING.avif": "/static/media/1 FAN WITH CASING.c2fae5a89f28cdf00e82.avif",
     "index.html": "/index.html",
-    "main.371d6240.css.map": "/static/css/main.371d6240.css.map",
-    "main.5a70b9ae.js.map": "/static/js/main.5a70b9ae.js.map"
+    "main.facf4e08.css.map": "/static/css/main.facf4e08.css.map",
+    "main.a521c0fd.js.map": "/static/js/main.a521c0fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.371d6240.css",
-    "static/js/main.5a70b9ae.js"
+    "static/css/main.facf4e08.css",
+    "static/js/main.a521c0fd.js"
   ]
 }
