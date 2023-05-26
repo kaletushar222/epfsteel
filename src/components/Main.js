@@ -52,7 +52,6 @@ function Main() {
     }
     return (
         <main id="main">
-            <CustomModal selectedProduct={selectedProduct} show={show} handleClose={handleClose} />
             <section id="about" className="about">
                 <div className="container" data-aos="fade-up">
 
@@ -479,7 +478,7 @@ function Main() {
                             </div>
 
                         </div>
-
+                        { show && <CustomModal selectedProduct={selectedProduct} show={show} handleClose={handleClose} /> }
                         <div className="col-lg-7 mt-5 mt-lg-0 d-flex  align-items-stretch">
                             <iframe
                                 title="map"
