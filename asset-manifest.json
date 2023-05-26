@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.facf4e08.css",
-    "main.js": "/static/js/main.a521c0fd.js",
+    "main.js": "/static/js/main.ace1b07e.js",
     "static/media/1 TANK WITH AGITATORS.png": "/static/media/1 TANK WITH AGITATORS.26fa386103c8f1710049.png",
     "static/media/2 MS CHIMNEY.jpg": "/static/media/2 MS CHIMNEY.b1d33e07db55506c48a4.jpg",
     "static/media/1.jpg": "/static/media/1.c6230a4875b61169ed57.jpg",
@@ -29,10 +29,10 @@
     "static/media/1 FAN WITH CASING.avif": "/static/media/1 FAN WITH CASING.c2fae5a89f28cdf00e82.avif",
     "index.html": "/index.html",
     "main.facf4e08.css.map": "/static/css/main.facf4e08.css.map",
-    "main.a521c0fd.js.map": "/static/js/main.a521c0fd.js.map"
+    "main.ace1b07e.js.map": "/static/js/main.ace1b07e.js.map"
   },
   "entrypoints": [
     "static/css/main.facf4e08.css",
-    "static/js/main.a521c0fd.js"
+    "static/js/main.ace1b07e.js"
   ]
 }
