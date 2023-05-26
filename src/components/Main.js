@@ -148,11 +148,10 @@ function Main() {
                                 <p></p>
                             </div>
                         </div>
-
-                        <div className="col-xl-4 col-md-6  align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                        <div className="col-xl-4 col-md-6  align-items-stretch" data-aos="zoom-in" >
                             <div className="icon-box">
-                                <div className="icon"><i className="bx bx-file"></i></div>
-                                <h4><a href="#">High Pressure Jet Cleaning of Tubes for Condenser, Heat Exchangers, Air Preheater ( APH) and all other tubes</a></h4>
+                                <div className="icon"><i className="bx bxl-dribbble"></i></div>
+                                <h4><a href="#">SS Mirror Polishing and Buffing of SS Tanks and Parts </a></h4>
                                 <p></p>
                             </div>
                         </div>
@@ -166,10 +165,10 @@ function Main() {
                     </div>
                     <br/>
                     <div className="row reveal">
-                        <div className="col-xl-4 col-md-6  align-items-stretch" data-aos="zoom-in" >
+                        <div className="col-xl-4 col-md-6  align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                             <div className="icon-box">
-                                <div className="icon"><i className="bx bxl-dribbble"></i></div>
-                                <h4><a href="#">SS Mirror Polishing and Buffing of SS Tanks and Parts </a></h4>
+                                <div className="icon"><i className="bx bx-file"></i></div>
+                                <h4><a href="#">High Pressure Jet Cleaning of Tubes for Condenser, Heat Exchangers, Air Preheater ( APH) and all other tubes</a></h4>
                                 <p></p>
                             </div>
                         </div>
