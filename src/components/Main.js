@@ -460,6 +460,9 @@ function Main() {
                                     <p>
                                         sales@epfsteel.com
                                     </p>
+                                    <p>
+                                        epfsteel@gmail.com
+                                    </p>
                                 </div>
 
                                 <div className="phone">
