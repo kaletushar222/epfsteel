@@ -24,7 +24,7 @@ import Tadpole from '../assets/images/B CATALOGUE FILE 2/K TADPOLE FOR BORROM AN
 import EspSpares from '../assets/images/B CATALOGUE FILE 2/L HAMMERS , INSULATORS, SHAFTS,DOORS AND ALL SPARES OF ESP/1 ESP SPARES.jpg';
 
 //C Catalog
-import MsChimney from '../assets/images/C CATALOGUE FILE 3/M BOILER CHIMNEY/2 MS CHIMNEY.jpg';
+import MsChimney from '../assets/images/C CATALOGUE FILE 3/M BOILER CHIMNEY/1 MS CHIMNEY.jpg';
 import AirPreheater from '../assets/images/C CATALOGUE FILE 3/N APH COMPLETE/1 AIR PREHEATER.jpg';
 import Rollers from '../assets/images/C CATALOGUE FILE 3/O CONVEYOR ROLLERS CARRYING ROLLERS, RETURN ROLLERS, SELF ALIGN ROLLERS/1 ROLLERS.jpeg';
 
